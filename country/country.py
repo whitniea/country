@@ -8,11 +8,12 @@ print("list - list all countries")
 print("add - add a country")
 print("del - delete a country")
 print("exit - exit program\n")
-input("what would you like to do?:  ")
+input("what would you like to do?  ")
 
-list = ["France", "Italy", "Japan", "England"]
-if input == list:
-    print(list)
+country = ["Japan", "England", "France", "Italy"]
+
+if input == lista:
+    print(country)
 
    
 
